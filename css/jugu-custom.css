@@ -1,0 +1,19 @@
+/* Add here all your CSS customizations */
+body{
+	font-family: font-family: Helvetica, Tahoma, Arial, STXihei, "华文细黑", "Microsoft YaHei", "微软雅黑", SimSun, "宋体", Heiti, "黑体", sans-serif;
+}
+.jugu-table td.rise{
+	color:#d2322d;
+}
+.jugu-table td.drop{
+	color:#47a447;
+}
+.jugu-table tbody tr:nth-child(2n+1) td{
+	background-color: #fff3ec;
+}
+#footer .footer-ribbon span{
+	font-family: Helvetica, Tahoma, Arial, STXihei, "华文细黑", "Microsoft YaHei", "微软雅黑", SimSun, "宋体", Heiti, "黑体", sans-serif;
+}
+section.section .recent-posts .date .day{
+	background-color: #fff3ec;
+}
